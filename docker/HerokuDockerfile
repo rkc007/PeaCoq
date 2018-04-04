@@ -1,0 +1,2 @@
+FROM ptival/peacoq
+CMD peacoq -p $PORT
