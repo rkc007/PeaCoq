@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euv
 
-branch="master"
+branch="v8.8"
 commit="3de59f2984995a4b971cd1bfb3911f4f95d78a98"
 
 if [ ! -d coq-serapi/.git ]; then
